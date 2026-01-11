@@ -1,0 +1,118 @@
+/* Simply Watchdog - Sentinel Theme */
+
+QMainWindow {
+    background: #080c14; /* Deep Dark Blue */
+    color: #e0faff;
+}
+
+QWidget {
+    font-family: "Segoe UI", "Roboto", "Courier New", sans-serif;
+    color: #00ffff; /* Neon Cyan Primary */
+    font-size: 10pt;
+    background-color: transparent;
+}
+
+/* Custom Header specific */
+CustomHeader {
+    background-color: transparent;
+    border-bottom: 1px solid rgba(0, 255, 255, 0.1);
+}
+
+/* Glass Cards */
+QFrame#StatCard, QFrame#StatusBanner, QFrame#GlassCard {
+    background-color: rgba(13, 19, 31, 200); /* Card Color #0d131f approx */
+    border: 1px solid rgba(0, 255, 255, 0.2);
+    border-radius: 12px;
+}
+QFrame#StatCard:hover {
+    border: 1px solid rgba(0, 255, 255, 0.6);
+    background-color: rgba(13, 19, 31, 240);
+}
+
+/* Tables & Trees */
+QTableWidget, QTreeWidget {
+    background-color: rgba(10, 14, 20, 200);
+    gridline-color: #1e293b;
+    selection-background-color: rgba(0, 255, 255, 0.15);
+    selection-color: #00ffff;
+    border: 1px solid rgba(0, 255, 255, 0.2);
+    color: #e0faff;
+    border-radius: 8px;
+    padding: 5px;
+    font-family: "Consolas", "Courier New", monospace;
+}
+
+QHeaderView::section {
+    background-color: rgba(8, 12, 20, 255);
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid #00ffff;
+    color: #00ffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 9pt;
+}
+
+QTableCornerButton::section {
+    background-color: #080c14;
+    border: none;
+}
+
+/* Tabs */
+QTabWidget::pane {
+    border: 1px solid rgba(0, 255, 255, 0.1);
+    background-color: rgba(8, 12, 20, 100);
+    border-radius: 8px;
+}
+
+QTabBar::tab {
+    background: rgba(13, 19, 31, 200);
+    border: 1px solid transparent;
+    padding: 8px 24px;
+    margin-right: 5px;
+    color: #64748b; /* Muted */
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    font-weight: bold;
+}
+
+QTabBar::tab:selected {
+    background: rgba(0, 255, 255, 0.1);
+    color: #00ffff;
+    border: 1px solid rgba(0, 255, 255, 0.3);
+    border-bottom: none;
+}
+
+QTabBar::tab:hover {
+    color: #e2e8f0;
+}
+
+/* Scrollbars - Cyber Slim */
+QScrollBar:vertical {
+    background: #080c14;
+    width: 6px;
+    margin: 0px 0px 0px 0px;
+}
+QScrollBar::handle:vertical {
+    background: #1e293b;
+    min-height: 20px;
+    border-radius: 3px;
+}
+QScrollBar::handle:vertical:hover {
+    background: #00ffff;
+}
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+    height: 0px;
+}
+
+/* Progress Bars */
+QProgressBar {
+    background-color: #1e293b; /* Muted bg */
+    border-radius: 4px;
+    text-align: center;
+    color: transparent; /* Hide default text inside bar */
+}
+QProgressBar::chunk {
+    background-color: #00ffff;
+    border-radius: 4px;
+}

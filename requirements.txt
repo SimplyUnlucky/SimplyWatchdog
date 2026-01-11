@@ -1,0 +1,9 @@
+psutil
+pydivert
+watchdog
+PySide6
+pandas
+scikit-learn
+pywin32
+requests
+colorlog

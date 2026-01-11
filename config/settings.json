@@ -1,0 +1,27 @@
+{
+    "app": {
+        "name": "Simply Watchdog",
+        "version": "1.0.0",
+        "debug": false,
+        "theme": "dark"
+    },
+    "monitoring": {
+        "process_interval": 0.5,
+        "network_interval": 0.1,
+        "resource_interval": 0.5,
+        "file_system_paths": [
+            "C:\\Windows\\System32\\drivers\\etc\\hosts",
+            "C:\\Users\\%USERNAME%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup"
+        ]
+    },
+    "ai": {
+        "enabled": true,
+        "anomaly_threshold": 0.8,
+        "learning_period_hours": 24
+    },
+    "logging": {
+        "level": "INFO",
+        "file_path": "logs/system_watch.log",
+        "max_size_mb": 10
+    }
+}
