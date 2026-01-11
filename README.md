@@ -1,7 +1,6 @@
 # Simply Watchdog 🛡️👁️
 
-**Simply Watchdog** is an advanced, AI-powered system monitoring tool designed for power users who demand real-time visibility and threat detection. Built with Python and PySide6, it features a strictly "Sentinel" Cyberpunk aesthetic and a suite of active monitors.
-
+**Simply Watchdog** is an AI-powered system monitoring tool for real-time visibility and threat detection.
 ![Dashboard Preview](ui/app_icon.png)
 
 ## 🚀 Features
