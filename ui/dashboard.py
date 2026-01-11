@@ -245,19 +245,31 @@ class Dashboard(QWidget):
         
         severity = data.get('severity', 'Info')
         message = data.get('message', '')
+        score = data.get('score')
+        mitre = data.get('mitre', [])
         
+        # Construct Display Text
+        prefix = f"[{severity}]"
+        if score is not None:
+            prefix += f" (Score: {score})"
+            
+        display_text = f"{message}"
+        if mitre:
+            display_text += f"\n   ↳ [ATT&CK: {', '.join(mitre)}]"
+            
         # Color based on severity
         color = "#e0faff"
         if severity == "High": color = "#ff5252"
         elif severity == "Medium": color = "#ffbd2e"
         elif severity == "Info": color = "#00bcd4"
         
-        item = QListWidgetItem(f"[{severity}] {message}")
+        item = QListWidgetItem(f"{time.strftime('%H:%M:%S')} - {prefix} {display_text}")
         item.setForeground(QColor(color))
         self.alert_list.insertItem(0, item)
         
         # Only update big status if it's actually a threat
         if severity in ["High", "Medium"]:
+            self.header.set_status(False)
             self.main_status.setText("THREAT DETECTED")
             self.main_status.setStyleSheet("color: #ff5252; font-size: 24px; font-weight: bold; border: none;")
 
