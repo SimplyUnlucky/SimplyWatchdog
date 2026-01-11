@@ -21,7 +21,7 @@
 ### Setup
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/SimplyWatchdog.git
+    git clone https://github.com/SimplyUnlucky/SimplyWatchdog.git
     cd SimplyWatchdog
     ```
 
