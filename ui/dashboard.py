@@ -90,27 +90,6 @@ class Dashboard(QWidget):
         txt_layout.addWidget(self.main_status)
         banner_layout.addLayout(txt_layout)
 
-        banner_layout.addStretch()
-        
-        # Scan Button
-        self.scan_btn = QPushButton("RUN DEEP SCAN")
-        self.scan_btn.setCursor(Qt.PointingHandCursor)
-        self.scan_btn.setStyleSheet("""
-            QPushButton {
-                background-color: rgba(0, 255, 255, 0.1); 
-                border: 1px solid #00ffff; 
-                color: #00ffff;
-                padding: 10px 24px;
-                font-weight: bold;
-                font-size: 10pt;
-                border-radius: 6px;
-            }
-            QPushButton:hover { background-color: rgba(0, 255, 255, 0.2); }
-            QPushButton:disabled { border-color: #555; color: #555; }
-        """)
-        self.scan_btn.clicked.connect(self.run_deep_scan)
-        banner_layout.addWidget(self.scan_btn)
-        
         layout.addWidget(banner)
         
         # 3. Resource Grid

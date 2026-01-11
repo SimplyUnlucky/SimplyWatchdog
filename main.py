@@ -23,7 +23,6 @@ def main():
     from monitors.process import ProcessMonitor
     from monitors.network import NetworkMonitor
     from monitors.resources import ResourceMonitor
-    from monitors.filesystem import FileSystemMonitor
 
     from ai.detector import AIDetector
     
@@ -33,8 +32,7 @@ def main():
     monitors = [
         ProcessMonitor(),
         NetworkMonitor(),
-        ResourceMonitor(),
-        FileSystemMonitor()
+        ResourceMonitor()
     ]
 
     for m in monitors:
