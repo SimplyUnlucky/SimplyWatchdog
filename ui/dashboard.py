@@ -162,7 +162,6 @@ class Dashboard(QWidget):
             setattr(self, ref_name, lbl) # Store ref
             qs_layout.addLayout(row)
             
-        create_stat_row("zap", "Scanning Files...", "qs_files")
         create_stat_row("trending_up", "Active Processes: --", "qs_procs")
         create_stat_row("clock", "Network Conns: --", "qs_conns")
             

@@ -32,21 +32,21 @@ class CustomHeader(QWidget):
         layout.addStretch()
         
         # Status Text
-        self.status = QLabel("SECURE")
-        self.status.setStyleSheet("color: #00ff00; font-weight: bold; margin-right: 20px;")
+        self.status = QLabel("● SYSTEM SECURE")
+        self.status.setAlignment(Qt.AlignCenter)
+        self.status.setStyleSheet("""
+            background-color: rgba(0, 255, 0, 0.1); 
+            color: #00ff88; 
+            border: 1px solid #00ff88; 
+            border-radius: 12px; 
+            padding: 4px 12px;
+            font-weight: bold;
+            font-size: 10pt;
+            margin-right: 20px;
+        """)
         layout.addWidget(self.status)
         
         layout.addSpacing(20)
-        
-        # Bell Icon (Notification)
-        self.bell_btn = QPushButton()
-        self.bell_btn.setIcon(assets.get_icon("bell"))
-        self.bell_btn.setFixedSize(32, 32)
-        self.bell_btn.setStyleSheet("""
-            QPushButton { background: transparent; border: none; }
-            QPushButton:hover { background-color: rgba(0, 255, 255, 0.1); border-radius: 5px; }
-        """)
-        layout.addWidget(self.bell_btn)
         
         # Settings Icon
         self.settings_btn = QPushButton()
@@ -61,8 +61,26 @@ class CustomHeader(QWidget):
 
     def set_status(self, safe: bool):
         if safe:
-            self.status.setText("SECURE")
-            self.status.setStyleSheet("color: #00ff00; font-weight: bold; margin-right: 20px;")
+            self.status.setText("● SYSTEM SECURE")
+            self.status.setStyleSheet("""
+                background-color: rgba(0, 255, 0, 0.1); 
+                color: #00ff88; 
+                border: 1px solid #00ff88; 
+                border-radius: 12px; 
+                padding: 4px 12px;
+                font-weight: bold;
+                font-size: 10pt;
+                margin-right: 20px;
+            """)
         else:
-            self.status.setText("THREAT DETECTED")
-            self.status.setStyleSheet("color: #ff0055; font-weight: bold; margin-right: 20px;")
+            self.status.setText("● THREAT DETECTED")
+            self.status.setStyleSheet("""
+                background-color: rgba(255, 0, 0, 0.1); 
+                color: #ff5252; 
+                border: 1px solid #ff5252; 
+                border-radius: 12px; 
+                padding: 4px 12px;
+                font-weight: bold;
+                font-size: 10pt;
+                margin-right: 20px;
+            """)

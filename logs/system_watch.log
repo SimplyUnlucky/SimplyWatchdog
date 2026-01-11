@@ -2610,3 +2610,259 @@
 2026-01-11 01:18:21,542 - [SystemWatch] - INFO - ResourceMonitor stopped.
 2026-01-11 01:18:21,544 - [SystemWatch] - INFO - Stopping FileSystemMonitor...
 2026-01-11 01:18:21,545 - [SystemWatch] - INFO - FileSystemMonitor stopped.
+2026-01-11 01:22:43,270 - [SystemWatch] - INFO - Starting Simply Watchdog v1.0.0
+2026-01-11 01:22:54,520 - [SystemWatch] - INFO - Starting ProcessMonitor...
+2026-01-11 01:22:54,522 - [SystemWatch] - INFO - Starting NetworkMonitor...
+2026-01-11 01:22:54,527 - [SystemWatch] - INFO - New Connection: comet.exe -> 3.175.86.99:443
+2026-01-11 01:22:54,528 - [SystemWatch] - INFO - Starting ResourceMonitor...
+2026-01-11 01:22:54,529 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,531 - [SystemWatch] - INFO - New Connection: Telegram.exe -> 149.154.167.41:443
+2026-01-11 01:22:54,562 - [SystemWatch] - INFO - New Connection: msedge.exe -> 98.66.133.184:443
+2026-01-11 01:22:54,562 - [SystemWatch] - INFO - Watching directory: C:\Windows\System32\drivers\etc\hosts
+2026-01-11 01:22:54,563 - [SystemWatch] - INFO - New Connection: Overwolf.exe -> 3.160.188.37:443
+2026-01-11 01:22:54,563 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.30.173:443
+2026-01-11 01:22:54,563 - [SystemWatch] - INFO - Watching directory: C:\Users\Hungr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+2026-01-11 01:22:54,564 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 34.54.84.110:443
+2026-01-11 01:22:54,564 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,564 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,564 - [SystemWatch] - INFO - New Connection: Telegram.exe -> 149.154.167.91:443
+2026-01-11 01:22:54,565 - [SystemWatch] - INFO - New Connection: opera.exe -> 104.18.10.200:443
+2026-01-11 01:22:54,566 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,567 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,568 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.251.5.188:5228
+2026-01-11 01:22:54,568 - [SystemWatch] - INFO - Starting FileSystemMonitor...
+2026-01-11 01:22:54,569 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.250.200.234:443
+2026-01-11 01:22:54,570 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.26.48:443
+2026-01-11 01:22:54,570 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.250.201.46:443
+2026-01-11 01:22:54,570 - [SystemWatch] - INFO - New Connection: comet.exe -> 140.82.113.26:443
+2026-01-11 01:22:54,571 - [SystemWatch] - INFO - New Connection: opera.exe -> 18.97.36.3:443
+2026-01-11 01:22:54,571 - [SystemWatch] - INFO - New Connection: comet.exe -> 172.66.0.96:443
+2026-01-11 01:22:54,572 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,572 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.250.200.234:443
+2026-01-11 01:22:54,572 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.251.37.234:443
+2026-01-11 01:22:54,572 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.8.223:443
+2026-01-11 01:22:54,573 - [SystemWatch] - INFO - New Connection: opera.exe -> 104.18.32.47:443
+2026-01-11 01:22:54,574 - [SystemWatch] - INFO - New Connection: AvastSvc.exe -> 41.231.245.89:443
+2026-01-11 01:22:54,574 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,575 - [SystemWatch] - INFO - New Connection: opera.exe -> 172.64.148.235:443
+2026-01-11 01:22:54,575 - [SystemWatch] - INFO - New Connection: comet.exe -> 34.143.72.2:443
+2026-01-11 01:22:54,575 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,576 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 172.217.171.202:443
+2026-01-11 01:22:54,576 - [SystemWatch] - INFO - New Connection: Antigravity.exe -> 13.89.179.8:443
+2026-01-11 01:22:54,577 - [SystemWatch] - INFO - New Connection: AvastSvc.exe -> 34.159.75.126:7500
+2026-01-11 01:22:54,577 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,577 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.251.5.188:5228
+2026-01-11 01:22:54,578 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.250.200.195:443
+2026-01-11 01:22:54,578 - [SystemWatch] - INFO - New Connection: opera.exe -> 76.223.31.44:443
+2026-01-11 01:22:54,578 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,579 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.26.48:443
+2026-01-11 01:22:54,579 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.26.48:443
+2026-01-11 01:22:54,579 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,580 - [SystemWatch] - INFO - New Connection: opera.exe -> 104.18.10.200:443
+2026-01-11 01:22:54,580 - [SystemWatch] - INFO - New Connection: comet.exe -> 34.120.206.254:443
+2026-01-11 01:22:54,580 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.10:443
+2026-01-11 01:22:54,580 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,580 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.8.223:443
+2026-01-11 01:22:54,581 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,581 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 216.239.32.223:443
+2026-01-11 01:22:54,581 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,582 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,583 - [SystemWatch] - INFO - New Connection: svchost.exe -> 98.66.133.184:443
+2026-01-11 01:22:54,583 - [SystemWatch] - INFO - New Connection: comet.exe -> 172.64.148.235:443
+2026-01-11 01:22:54,584 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,584 - [SystemWatch] - INFO - New Connection: comet.exe -> 163.181.97.185:443
+2026-01-11 01:22:54,585 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,585 - [SystemWatch] - INFO - New Connection: chrome.exe -> 108.177.15.188:5228
+2026-01-11 01:22:54,585 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.9.223:443
+2026-01-11 01:22:54,585 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.251.37.234:443
+2026-01-11 01:22:54,586 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:22:54,704 - [SystemWatch] - INFO - Starting GUI...
+2026-01-11 01:22:58,811 - [SystemWatch] - INFO - New Connection: chrome.exe -> 140.82.113.21:443
+2026-01-11 01:22:58,915 - [SystemWatch] - INFO - New Connection: chrome.exe -> 140.82.121.5:443
+2026-01-11 01:23:01,101 - [SystemWatch] - INFO - New Connection: chrome.exe -> 140.82.121.3:443
+2026-01-11 01:23:01,188 - [SystemWatch] - INFO - New Connection: chrome.exe -> 185.199.110.133:443
+2026-01-11 01:23:01,283 - [SystemWatch] - INFO - New Connection: chrome.exe -> 185.199.109.154:443
+2026-01-11 01:23:04,504 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 34.54.84.110:443
+2026-01-11 01:23:11,011 - [SystemWatch] - INFO - Starting Deep Scan...
+2026-01-11 01:23:11,152 - [SystemWatch] - INFO - Deep Scan complete. Scanned 451 processes. Found 0 issues.
+2026-01-11 01:23:28,960 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.8.223:443
+2026-01-11 01:23:34,016 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 34.54.84.110:443
+2026-01-11 01:23:39,321 - [SystemWatch] - INFO - New Connection: backgroundTaskHost.exe -> 40.126.53.18:443
+2026-01-11 01:23:50,475 - [SystemWatch] - INFO - New Connection: opera.exe -> 104.18.10.200:443
+2026-01-11 01:24:02,831 - [SystemWatch] - INFO - Starting Deep Scan...
+2026-01-11 01:24:03,049 - [SystemWatch] - INFO - Deep Scan complete. Scanned 455 processes. Found 0 issues.
+2026-01-11 01:24:03,638 - [SystemWatch] - INFO - New Connection: AvastSvc.exe -> 41.231.245.80:443
+2026-01-11 01:24:04,646 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 34.54.84.110:443
+2026-01-11 01:24:18,837 - [SystemWatch] - INFO - New Connection: chrome.exe -> 140.82.121.6:443
+2026-01-11 01:24:28,949 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:24:34,016 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 34.54.84.110:443
+2026-01-11 01:24:36,035 - [SystemWatch] - INFO - New Connection: msedge.exe -> 150.171.28.11:443
+2026-01-11 01:24:36,036 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.250.200.234:443
+2026-01-11 01:24:39,334 - [SystemWatch] - INFO - New Connection: Antigravity.exe -> 142.250.201.42:443
+2026-01-11 01:24:39,336 - [SystemWatch] - INFO - New Connection: svchost.exe -> 41.226.6.202:80
+2026-01-11 01:24:41,372 - [SystemWatch] - INFO - New Connection: Antigravity.exe -> 216.239.32.223:443
+2026-01-11 01:24:45,441 - [SystemWatch] - INFO - New Connection: opera.exe -> 185.26.182.94:443
+2026-01-11 01:24:45,441 - [SystemWatch] - INFO - New Connection: comet.exe -> 3.233.158.26:443
+2026-01-11 01:24:54,547 - [SystemWatch] - INFO - New Connection: opera.exe -> 185.26.182.111:443
+2026-01-11 01:25:03,654 - [SystemWatch] - INFO - New Connection: Antigravity.exe -> 20.42.73.27:443
+2026-01-11 01:25:04,001 - [SystemWatch] - INFO - Starting Simply Watchdog v1.0.0
+2026-01-11 01:25:04,665 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 34.54.84.110:443
+2026-01-11 01:25:09,727 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:10,746 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,647 - [SystemWatch] - INFO - Starting ProcessMonitor...
+2026-01-11 01:25:15,649 - [SystemWatch] - INFO - Starting NetworkMonitor...
+2026-01-11 01:25:15,655 - [SystemWatch] - INFO - New Connection: comet.exe -> 3.175.86.99:443
+2026-01-11 01:25:15,656 - [SystemWatch] - INFO - Starting ResourceMonitor...
+2026-01-11 01:25:15,657 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.250.201.46:443
+2026-01-11 01:25:15,658 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,662 - [SystemWatch] - INFO - Watching directory: C:\Windows\System32\drivers\etc\hosts
+2026-01-11 01:25:15,686 - [SystemWatch] - INFO - New Connection: comet.exe -> 172.66.0.96:443
+2026-01-11 01:25:15,687 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,687 - [SystemWatch] - INFO - Watching directory: C:\Users\Hungr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+2026-01-11 01:25:15,687 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,687 - [SystemWatch] - INFO - New Connection: msedge.exe -> 150.171.28.11:443
+2026-01-11 01:25:15,688 - [SystemWatch] - INFO - New Connection: opera.exe -> 76.223.31.44:443
+2026-01-11 01:25:15,688 - [SystemWatch] - INFO - New Connection: chrome.exe -> 108.177.15.188:5228
+2026-01-11 01:25:15,689 - [SystemWatch] - INFO - New Connection: comet.exe -> 34.143.72.2:443
+2026-01-11 01:25:15,689 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,689 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.251.37.234:443
+2026-01-11 01:25:15,690 - [SystemWatch] - INFO - Starting FileSystemMonitor...
+2026-01-11 01:25:15,690 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.250.200.234:443
+2026-01-11 01:25:15,690 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,691 - [SystemWatch] - INFO - New Connection: opera.exe -> 18.97.36.3:443
+2026-01-11 01:25:15,692 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.8.223:443
+2026-01-11 01:25:15,692 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.251.5.188:5228
+2026-01-11 01:25:15,692 - [SystemWatch] - INFO - New Connection: chrome.exe -> 185.199.110.133:443
+2026-01-11 01:25:15,693 - [SystemWatch] - INFO - New Connection: comet.exe -> 34.120.206.254:443
+2026-01-11 01:25:15,693 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,694 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,694 - [SystemWatch] - INFO - New Connection: Telegram.exe -> 149.154.167.91:443
+2026-01-11 01:25:15,695 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,695 - [SystemWatch] - INFO - New Connection: opera.exe -> 185.26.182.94:443
+2026-01-11 01:25:15,695 - [SystemWatch] - INFO - New Connection: comet.exe -> 140.82.113.26:443
+2026-01-11 01:25:15,695 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,696 - [SystemWatch] - INFO - New Connection: opera.exe -> 104.18.10.200:443
+2026-01-11 01:25:15,696 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.26.48:443
+2026-01-11 01:25:15,697 - [SystemWatch] - INFO - New Connection: AvastSvc.exe -> 34.159.75.126:7500
+2026-01-11 01:25:15,697 - [SystemWatch] - INFO - New Connection: chrome.exe -> 140.82.113.21:443
+2026-01-11 01:25:15,697 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,698 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.9.223:443
+2026-01-11 01:25:15,698 - [SystemWatch] - INFO - New Connection: comet.exe -> 172.64.148.235:443
+2026-01-11 01:25:15,698 - [SystemWatch] - INFO - New Connection: comet.exe -> 3.233.158.26:443
+2026-01-11 01:25:15,699 - [SystemWatch] - INFO - New Connection: Antigravity.exe -> 20.42.73.27:443
+2026-01-11 01:25:15,699 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 216.239.32.223:443
+2026-01-11 01:25:15,700 - [SystemWatch] - INFO - New Connection: svchost.exe -> 98.66.133.184:443
+2026-01-11 01:25:15,701 - [SystemWatch] - INFO - New Connection: opera.exe -> 104.18.10.200:443
+2026-01-11 01:25:15,701 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,701 - [SystemWatch] - INFO - New Connection: AvastSvc.exe -> 41.231.245.80:443
+2026-01-11 01:25:15,702 - [SystemWatch] - INFO - New Connection: opera.exe -> 104.18.32.47:443
+2026-01-11 01:25:15,702 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.251.5.188:5228
+2026-01-11 01:25:15,703 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.8.223:443
+2026-01-11 01:25:15,703 - [SystemWatch] - INFO - New Connection: msedge.exe -> 98.66.133.184:443
+2026-01-11 01:25:15,703 - [SystemWatch] - INFO - New Connection: opera.exe -> 172.64.148.235:443
+2026-01-11 01:25:15,703 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,704 - [SystemWatch] - INFO - New Connection: opera.exe -> 185.26.182.111:443
+2026-01-11 01:25:15,704 - [SystemWatch] - INFO - New Connection: svchost.exe -> 41.226.6.202:80
+2026-01-11 01:25:15,705 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,705 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.250.200.234:443
+2026-01-11 01:25:15,708 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.26.48:443
+2026-01-11 01:25:15,708 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.250.200.195:443
+2026-01-11 01:25:15,709 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,710 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,710 - [SystemWatch] - INFO - New Connection: Telegram.exe -> 149.154.167.41:443
+2026-01-11 01:25:15,711 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.30.173:443
+2026-01-11 01:25:15,713 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.26.48:443
+2026-01-11 01:25:15,729 - [SystemWatch] - INFO - New Connection: comet.exe -> 163.181.97.185:443
+2026-01-11 01:25:15,742 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.251.37.234:443
+2026-01-11 01:25:15,743 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:15,843 - [SystemWatch] - INFO - Starting GUI...
+2026-01-11 01:25:16,759 - [SystemWatch] - INFO - New Connection: comet.exe -> 199.232.81.91:443
+2026-01-11 01:25:16,823 - [SystemWatch] - INFO - New Connection: comet.exe -> 199.232.81.91:443
+2026-01-11 01:25:28,950 - [SystemWatch] - INFO - Shutdown signal received...
+2026-01-11 01:25:30,151 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 172.217.21.10:443
+2026-01-11 01:25:30,152 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 172.217.21.10:443
+2026-01-11 01:25:31,117 - [SystemWatch] - INFO - Starting Simply Watchdog v1.0.0
+2026-01-11 01:25:31,160 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 172.217.21.10:443
+2026-01-11 01:25:32,175 - [SystemWatch] - INFO - New Connection: opera.exe -> 82.145.216.15:443
+2026-01-11 01:25:33,188 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 34.54.84.110:443
+2026-01-11 01:25:42,495 - [SystemWatch] - INFO - Starting ProcessMonitor...
+2026-01-11 01:25:42,497 - [SystemWatch] - INFO - Starting NetworkMonitor...
+2026-01-11 01:25:42,508 - [SystemWatch] - INFO - New Connection: comet.exe -> 163.181.97.185:443
+2026-01-11 01:25:42,509 - [SystemWatch] - INFO - Starting ResourceMonitor...
+2026-01-11 01:25:42,509 - [SystemWatch] - INFO - New Connection: chrome.exe -> 108.177.15.188:5228
+2026-01-11 01:25:42,510 - [SystemWatch] - INFO - New Connection: msedge.exe -> 98.66.133.184:443
+2026-01-11 01:25:42,539 - [SystemWatch] - INFO - Watching directory: C:\Windows\System32\drivers\etc\hosts
+2026-01-11 01:25:42,540 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,540 - [SystemWatch] - INFO - Watching directory: C:\Users\Hungr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+2026-01-11 01:25:42,541 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.26.48:443
+2026-01-11 01:25:42,541 - [SystemWatch] - INFO - New Connection: comet.exe -> 34.143.72.2:443
+2026-01-11 01:25:42,542 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 172.217.21.10:443
+2026-01-11 01:25:42,542 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,544 - [SystemWatch] - INFO - New Connection: svchost.exe -> 98.66.133.184:443
+2026-01-11 01:25:42,544 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.8.223:443
+2026-01-11 01:25:42,544 - [SystemWatch] - INFO - Starting FileSystemMonitor...
+2026-01-11 01:25:42,545 - [SystemWatch] - INFO - New Connection: Antigravity.exe -> 20.42.73.27:443
+2026-01-11 01:25:42,545 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.251.5.188:5228
+2026-01-11 01:25:42,546 - [SystemWatch] - INFO - New Connection: chrome.exe -> 140.82.113.21:443
+2026-01-11 01:25:42,546 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.250.201.46:443
+2026-01-11 01:25:42,546 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.8.223:443
+2026-01-11 01:25:42,547 - [SystemWatch] - INFO - New Connection: opera.exe -> 185.26.182.94:443
+2026-01-11 01:25:42,547 - [SystemWatch] - INFO - New Connection: comet.exe -> 3.233.158.26:443
+2026-01-11 01:25:42,547 - [SystemWatch] - INFO - New Connection: opera.exe -> 104.18.10.200:443
+2026-01-11 01:25:42,548 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.251.5.188:5228
+2026-01-11 01:25:42,548 - [SystemWatch] - INFO - New Connection: opera.exe -> 82.145.216.15:443
+2026-01-11 01:25:42,548 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.26.48:443
+2026-01-11 01:25:42,549 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.251.37.234:443
+2026-01-11 01:25:42,549 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 172.217.21.10:443
+2026-01-11 01:25:42,549 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.9.223:443
+2026-01-11 01:25:42,549 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,550 - [SystemWatch] - INFO - New Connection: chrome.exe -> 185.199.110.133:443
+2026-01-11 01:25:42,550 - [SystemWatch] - INFO - New Connection: comet.exe -> 199.232.81.91:443
+2026-01-11 01:25:42,550 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.250.200.234:443
+2026-01-11 01:25:42,551 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,551 - [SystemWatch] - INFO - New Connection: opera.exe -> 76.223.31.44:443
+2026-01-11 01:25:42,551 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,552 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,552 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 34.54.84.110:443
+2026-01-11 01:25:42,552 - [SystemWatch] - INFO - New Connection: msedge.exe -> 150.171.28.11:443
+2026-01-11 01:25:42,553 - [SystemWatch] - INFO - New Connection: opera.exe -> 142.250.200.234:443
+2026-01-11 01:25:42,553 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,553 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,554 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,554 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,554 - [SystemWatch] - INFO - New Connection: comet.exe -> 172.66.0.96:443
+2026-01-11 01:25:42,555 - [SystemWatch] - INFO - New Connection: comet.exe -> 34.120.206.254:443
+2026-01-11 01:25:42,555 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,555 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 216.239.32.223:443
+2026-01-11 01:25:42,556 - [SystemWatch] - INFO - New Connection: opera.exe -> 185.26.182.111:443
+2026-01-11 01:25:42,556 - [SystemWatch] - INFO - New Connection: opera.exe -> 18.97.36.3:443
+2026-01-11 01:25:42,556 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,557 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.30.173:443
+2026-01-11 01:25:42,557 - [SystemWatch] - INFO - New Connection: AvastSvc.exe -> 41.231.245.80:443
+2026-01-11 01:25:42,558 - [SystemWatch] - INFO - New Connection: Telegram.exe -> 149.154.167.91:443
+2026-01-11 01:25:42,558 - [SystemWatch] - INFO - New Connection: AvastSvc.exe -> 34.159.75.126:7500
+2026-01-11 01:25:42,559 - [SystemWatch] - INFO - New Connection: opera.exe -> 104.18.32.47:443
+2026-01-11 01:25:42,559 - [SystemWatch] - INFO - New Connection: comet.exe -> 3.175.86.99:443
+2026-01-11 01:25:42,559 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 172.217.21.10:443
+2026-01-11 01:25:42,560 - [SystemWatch] - INFO - New Connection: comet.exe -> 140.82.113.26:443
+2026-01-11 01:25:42,560 - [SystemWatch] - INFO - New Connection: comet.exe -> 104.18.26.48:443
+2026-01-11 01:25:42,560 - [SystemWatch] - INFO - New Connection: comet.exe -> 172.64.148.235:443
+2026-01-11 01:25:42,560 - [SystemWatch] - INFO - New Connection: opera.exe -> 172.64.148.235:443
+2026-01-11 01:25:42,561 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,561 - [SystemWatch] - INFO - New Connection: Telegram.exe -> 149.154.167.41:443
+2026-01-11 01:25:42,568 - [SystemWatch] - INFO - New Connection: opera.exe -> 104.18.10.200:443
+2026-01-11 01:25:42,572 - [SystemWatch] - INFO - New Connection: language_server_windows_x64.exe -> 142.250.201.42:443
+2026-01-11 01:25:42,573 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.250.200.195:443
+2026-01-11 01:25:42,574 - [SystemWatch] - INFO - New Connection: comet.exe -> 142.251.37.234:443
+2026-01-11 01:25:42,705 - [SystemWatch] - INFO - Starting GUI...
+2026-01-11 01:25:44,343 - [SystemWatch] - INFO - Stopping monitors...
+2026-01-11 01:25:44,344 - [SystemWatch] - INFO - Stopping ProcessMonitor...
+2026-01-11 01:25:44,346 - [SystemWatch] - INFO - ProcessMonitor stopped.
+2026-01-11 01:25:44,346 - [SystemWatch] - INFO - Stopping NetworkMonitor...
+2026-01-11 01:25:44,349 - [SystemWatch] - INFO - NetworkMonitor stopped.
+2026-01-11 01:25:44,349 - [SystemWatch] - INFO - Stopping ResourceMonitor...
+2026-01-11 01:25:44,352 - [SystemWatch] - INFO - ResourceMonitor stopped.
+2026-01-11 01:25:44,355 - [SystemWatch] - INFO - Stopping FileSystemMonitor...
+2026-01-11 01:25:44,356 - [SystemWatch] - INFO - FileSystemMonitor stopped.
+2026-01-11 01:25:52,798 - [SystemWatch] - INFO - Shutdown signal received...
+2026-01-11 01:25:53,019 - [SystemWatch] - INFO - Shutdown signal received...

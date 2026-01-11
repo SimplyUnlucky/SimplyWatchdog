@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+# Byte‑code caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Logs and temporary files
+*.log
+*.sqlite3
+# OS files
+.DS_Store
+# IDE / editor folders
+.vscode/
+.idea/
